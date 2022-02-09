@@ -4,7 +4,7 @@ let clrs = [
 '#FF00FF', //middle top 1
 '#FFA500', //middle strip 2
 '#A020F0', //middle bottom 3
-'#800000' //bottom 4
+'#800010' //bottom 4
 ]
 
 
